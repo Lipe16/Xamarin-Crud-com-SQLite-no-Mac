@@ -9,5 +9,6 @@ Neste projeto usei layout universal, mais se eu quisece usar as ferramentas padr
 Mais prefiro trabalhar com xml que é a maneira como android trabalha e windows phone também(XAML).
 ![Layout padrão xml do windows universal](https://image.ibb.co/iqAb8S/Captura_de_ecra_2018_03_09_a_s_08_00_44.png)
 
+
 Xamarin oferece no layout universsal caracteristas padrões semelhantes seguindo modelo de cada dispositivo:
 ![Funções semelhantes](https://preview.ibb.co/exZdoS/Captura_de_ecra_2018_03_09_a_s_08_05_01.png)![Xamarin](https://image.ibb.co/hO5b8S/Captura_de_ecra_2018_03_09_a_s_07_59_45.png)
