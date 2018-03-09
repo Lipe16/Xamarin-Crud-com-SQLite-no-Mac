@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{CD566476-85E2-4B2E-A3C3-AFA8B2DDA592}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.ExemploDeSQLXamarin.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0C10B3F4-FAFC-4407-AC7D-288616C59414">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ExemploDeSQLXamarin.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploDeSQLXamarin/View/TelaPrincipal.xaml">
+    <Files>
+      <File FileName="ExemploDeSQLXamarin/View/TelaPrincipal.xaml" Line="24" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExemploDeSQLXamarin.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>

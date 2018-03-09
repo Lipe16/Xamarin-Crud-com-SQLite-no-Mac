@@ -1,0 +1,2 @@
+android.app.Application
+teste.lipe_ferreira.ExemploDeSQLXamarin
