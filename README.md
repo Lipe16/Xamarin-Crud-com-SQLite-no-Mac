@@ -1,7 +1,7 @@
 # Xamarin-Crud-com-SQLite-no-Mac
-#Neste Projeto usei emulador Android e simulador Iphone, mais poderia usar windows universal também(windows phone e windows 10)
+-Neste Projeto usei emulador Android e simulador Iphone, mais poderia usar windows universal também(windows phone e windows 10).
 
-Este projeto é um aplicativo de lista de tarefas, desenvolvido para testar o Xamarin e ver como é bacana a ideia de aplicativos multiplataformas
+Este projeto é um aplicativo de lista de tarefas, desenvolvido para testar o Xamarin e ver como é bacana a ideia de aplicativos multiplataformas:
 
 ![Xamarin](https://image.ibb.co/hO5b8S/Captura_de_ecra_2018_03_09_a_s_07_59_45.png)
 
