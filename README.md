@@ -1,7 +1,7 @@
 # Xamarin-Crud-com-SQLite-no-Mac
 -Neste Projeto usei emulador Android e simulador Iphone, mais poderia usar windows universal também(windows phone e windows 10).
 
--Esse projeto usa Visual Studio Comunity no Mac, mais também é possível importar para o Visual Studio do Windows basta retirar a o código fonte do Iphone(que é auto-compilado no projeto) ou usar um mac para compilar para o Iphone a partir do windows...
+-Usei Visual Studio Comunity no Mac, mais também é possível importar para o Visual Studio do Windows basta retirar a o código fonte do Iphone(que é auto-compilado no projeto) ou usar um mac para compilar para o Iphone a partir do windows...
 
 Este projeto é um aplicativo de lista de tarefas, desenvolvido para testar o Xamarin e ver como é bacana a ideia de aplicativos multiplataformas:
 
